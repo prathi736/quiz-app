@@ -25,9 +25,9 @@ https://github.com/prathi736/quiz-app/assets/63576303/20d04e3c-5e97-4382-8a8e-6e
 
 
 
-## 🔗 Link of the Application
+<!--## 🔗 Link of the Application
 
-[Quiz App](https://prathi736.github.io/quiz-app/)
+[Quiz App](https://prathi736.github.io/quiz-app/)-->
 
 
 
