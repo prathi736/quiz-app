@@ -20,6 +20,10 @@ I have created a simple quiz app using HTML, CSS and JavaScript. I have also use
 
 
 
+https://github.com/prathi736/quiz-app/assets/63576303/20d04e3c-5e97-4382-8a8e-6ead07d41b9e
+
+
+
 
 ## 🔗 Link of the Application
 
